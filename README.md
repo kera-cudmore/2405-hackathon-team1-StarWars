@@ -4,6 +4,13 @@
 
 Visit the deployed site: [The Darth Side](https://desislavanaydenova.github.io/2405-hackathon-team1-StarWars/quiz.html)
 
+<a href="https://api.eu.badgr.io/public/assertions/uGkOaO9QT7mP_YTQlHUWwg"><img width="120px" height="120px" src="https://api.eu.badgr.io/public/assertions/uGkOaO9QT7mP_YTQlHUWwg/image"></a>
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/DesislavaNaydenova/2405-hackathon-team1-StarWars/main)
+![GitHub contributors](https://img.shields.io/github/contributors/DesislavaNaydenova/2405-hackathon-team1-StarWars)
+![GitHub language count](https://img.shields.io/github/languages/count/DesislavaNaydenova/2405-hackathon-team1-StarWars)
+![GitHub top language](https://img.shields.io/github/languages/top/DesislavaNaydenova/2405-hackathon-team1-StarWars)
+
+
 ## Introduction
 
 ### Problem Statement
