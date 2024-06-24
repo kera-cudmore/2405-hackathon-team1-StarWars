@@ -186,7 +186,7 @@ We created our avatar images using [Doll Divine](https://www.dolldivine.com/star
 
 ## Team
 
-- Alex Crabbe [GitHub](https://github.com/alexrobincrabbe)
+- Alex Crabbe [GitHub](https://github.com/alexrobincrabbe) [LinkedIn](https://www.linkedin.com/in/alex-crabbe-9473732a2/)
 - Kera Cudmore [GitHub](https://github.com/kera-cudmore) [LinkedIn](https://www.linkedin.com/in/keracudmore/)
 - Micah Francis [GitHub](https://github.com/2ndborn?tab=repositories) [LinkedIn](www.linkedin.com/in/micah-francis-87bb0832)
 - Krishan Gharu [GitHub](https://github.com/kslg) [LinkedIn](https://www.linkedin.com/in/krishang/)
